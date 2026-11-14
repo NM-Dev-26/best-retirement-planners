@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nm-dev-26.github.io/best-retirement-planners/sitemap.xml
