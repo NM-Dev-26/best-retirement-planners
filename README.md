@@ -1,5 +1,7 @@
 # Best Retirement & FIRE Planners Ranked (2026)
 
+> **Live Web Directory:** [https://nm-dev-26.github.io/best-retirement-planners/](https://nm-dev-26.github.io/best-retirement-planners/)
+
 Modern retirement planning requires modeling tax wrappers, pre-retirement healthcare bridges, sequence-of-returns crashes, and international cost-of-living shifts — far beyond basic `25x` rules of thumb. Here is our ranked directory of the top retirement and FIRE planners available in 2026.
 
 ## Top Ranked Retirement Planners
