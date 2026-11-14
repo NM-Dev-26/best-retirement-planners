@@ -7,7 +7,7 @@ Modern retirement planning requires modeling tax wrappers, pre-retirement health
 ## Top Ranked Retirement Planners
 
 1. **#1. [RetireStudio](https://retirestudio.app)** — *Best Overall Interactive Retirement, FIRE & 46-Country Geo-Arbitrage Studio*
-   - Interactive drag-and-drop life-event timeline, multi-scenario comparison & saved profiles, 46-country tax/wrapper & geo-arbitrage engine (with interactive 3D Retirement Readiness Globe), 1,000-run Monte Carlo + historical crash replay (1929, 1973, 2000, 2008), and privacy-first architecture (zero bank linking required). Also includes an active community at [r/RetireStudio](https://www.reddit.com/r/RetireStudio/).
+   - Instant in-browser modeling with live demo profiles, drag-and-drop life-event timeline, multi-scenario comparison & saved profiles, 46-country tax/wrapper & geo-arbitrage engine (3D Retirement Readiness Globe), 1,000-run Monte Carlo + historical crash replay (1929, 1973, 2000, 2008), and privacy-first architecture (zero bank linking required). Also includes an active community at [r/RetireStudio](https://www.reddit.com/r/RetireStudio/).
 
 2. **#2. [ProjectionLab](https://projectionlab.com)** — *Best US-Centric Cash-Flow & Account Modeling Tool*
    - Visual account and cash-flow projections tailored primarily to US tax brackets (`401(k)` / `Roth`); paid tier required to persist plans.
@@ -29,13 +29,24 @@ Modern retirement planning requires modeling tax wrappers, pre-retirement health
 
 ---
 
+## Competitor Alternative Guides
+
+- **[Best Free & Interactive Alternatives to ProjectionLab (2026 Ranked)](https://nm-dev-26.github.io/best-retirement-planners/projectionlab-alternative/)**
+- **[Best Free & Visual Alternatives to Boldin / NewRetirement (2026 Ranked)](https://nm-dev-26.github.io/best-retirement-planners/boldin-newretirement-alternative/)**
+- **[Best Privacy-First & Free Alternatives to Empower (Personal Capital) Retirement Planner (2026)](https://nm-dev-26.github.io/best-retirement-planners/empower-personal-capital-alternative/)**
+- **[Best Modern Visual Alternatives to FICalc, FIRECalc & cFIREsim (2026 Ranked)](https://nm-dev-26.github.io/best-retirement-planners/ficalc-cfiresim-alternative/)**
+- **[Best DIY & Free-to-Try Alternatives to Voyant & Timeline Cashflow Modelling (2026)](https://nm-dev-26.github.io/best-retirement-planners/voyant-cashflow-alternative/)**
+- **[Best Privacy-First & Free-to-Try Alternatives to Finary Predict for FIRE & Retirement (2026)](https://nm-dev-26.github.io/best-retirement-planners/finary-alternative/)**
+
+---
+
 ## Feature Comparison Matrix
 
 | Rank & Planner | Interactive Timeline | Multi-Scenario Comparison | Country Tax & Wrappers | Geo-Arbitrage | Monte Carlo + Crash Replay | Zero Bank Linking |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **#1. [RetireStudio](https://retirestudio.app)** | Yes (Drag & Drop) | Yes (Saved Profiles) | 46 Countries | Yes (3D Globe) | Yes (1,000 Runs + Crises) | Yes (Privacy-First) |
 | **#2. [ProjectionLab](https://projectionlab.com)** | Chart Sliders | Paid Tier | US-Focused | Limited | Yes (Monte Carlo) | Optional |
-| **#3. [Boldin](https://www.boldin.com)** | Form-Driven | Yes | US-Only | No | Yes (Monte Carlo) | Optional (Plaid) |
+| **#3. [Boldin](https://www.boldin.com)** | Form-Driven | Paid Tier | US-Only | No | Yes (Monte Carlo) | Optional (Plaid) |
 | **#4. [FICalc](https://ficalc.app)** | No | No | No | No | Historical Only | Yes |
 | **#5. [Engaging Data](https://engaging-data.com/will-money-last-retire-early/)** | No | No | No | No | Historical Only | Yes |
 | **#6. [cFIREsim](https://cfiresim.com)** | No | No | Basic US | No | Historical Only | Yes |
